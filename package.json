@@ -1,0 +1,17 @@
+{
+  "name": "link-quest-chooser",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Adrian Bernardo",
+  "license": "UNLICENSED",
+  "engines": {
+    "node": "10.16.0"
+  },
+  "dependencies": {
+    "pdf2json": "^1.1.8"
+  }
+}
